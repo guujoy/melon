@@ -1,0 +1,1331 @@
+[
+  {
+    "category": "Tanks",
+    "key": "tanks",
+    "items": [
+      {
+        "key": "84ac13a9696967dc4dce46369e37e3d7",
+        "title": "Bomber",
+        "description": "Can drop an atomic bomb with a mechanism.\n\nYou can detonate a bomb by pressing a button, and drop it by using a lever.\n\nCan fly."
+      },
+      {
+        "key": "37624c95a966b71d93a448bbc6ffacf8",
+        "title": "T34-85",
+        "description": "The tank that turned the tide of World War 2, became the best in its category among all tanks.\n\nPeculiarities:\n\nNeed to increase\nFlat hitboxes\nDoes not work\nDoesn't shoot"
+      },
+      {
+        "key": "231a74d9463617e9b50ce5d13250729d",
+        "title": "BTR-80",
+        "description": "Soviet armored personnel carrier \"BTR-80\".\n\nFor convenience, it is better to use Resize character\nCan aim weapons\nIn case of a fastening bug, it is recommended to re-fasten it."
+      },
+      {
+        "key": "7fa5903e300373fe80893d0186094d89",
+        "title": "BTR-90",
+        "description": "BTR-90 armored vehicle of the Russian army, discontinued. There is a machine gun and a grenade launcher, three places in the cockpit for combat watermelons."
+      },
+      {
+        "key": "243ae8204b1ac897a321cb046dcf5a62",
+        "title": "Tiger II",
+        "description": "Excellent German tank \"Royal Tiger\". An excellent building for creating a tank battle."
+      },
+      {
+        "key": "49a34347727d5edfc229c1ca67aa5181",
+        "title": "GAZ Tiger - constructor",
+        "description": "Using this mod you have to assemble the Tiger from the constructor. The pack contains:\n\nBasis GAZ Tiger\nWheel\nKenguryatnik\nSeat\nSpare wheel\nIt can be used just like an armored car and an SUV!\n\nPeculiarities:\n\nFlat hitboxes.\nNothing needs to be increased."
+      },
+      {
+        "key": "bdf9030d486dd3aba8b4c864f049e7c4",
+        "title": "Air Defense",
+        "description": "Additions:\n\nTurret gun\nTurret base\nprojectile\nSeat\nIn theory it shoots. Mount the cannon as shown on the cover. So that she can turn around."
+      },
+      {
+        "key": "ff4500e0d728f79837ddbbe0103fa8a4",
+        "title": "Su-34 in different camouflages",
+        "description": "The pack contains several fighters in different colors:\n\nForest camouflage;\nWinter camouflage;\nDesert camouflage;\nNight camouflage;"
+      },
+      {
+        "key": "d682f5a7caac732f58710e0aa3e001ca",
+        "title": "Mi-28N (Night Hunter)",
+        "description": "This building is dedicated to Star Wars fans.\n\nOf the features:\n\nCan shoot\nHas one turret and two speeders"
+      },
+      {
+        "key": "3b89b4ed30113df491928631755bf646",
+        "title": "Tank T-90",
+        "description": "Mod for the Russian T-90 tank with desert camouflage. There is no KOEP \"Shtora-1\".\n\nPeculiarities:\n\nArmor combined, anti-ballistic, semi-active;\nSmoothbore gun 2A46M-2 125 mm;\n1 × 12.7 mm NSV;\nEngine V-84MS, 12 Cylinder. 840 hp;\n14 compression ratio;\nYou can put a melon in the place of the commander;\nDifficult to see in the middle of the desert;\nOne of the most popular Russian tanks."
+      },
+      {
+        "key": "f3ef96d3eb5b84a7eae25780430116b2",
+        "title": "Katyusha",
+        "description": "It adds the Soviet multiple launch rocket system - Katyusha. The author advises to use \"resize\"."
+      },
+      {
+        "key": "622c472fcd412cf6c2f3c803a78f09e4",
+        "title": "KB-2",
+        "description": "The mod adds a heavy tank KV 2 from World War 2. The author is indicated in the screenshot. Get it from the official discord."
+      },
+      {
+        "key": "2edd24fe76bb95005afd08020686badd",
+        "title": "Tank BT-7",
+        "description": "Adds a light tank BT 7 familiar from the game WOT."
+      },
+      {
+        "key": "79efa318f8ee883e30296a1bafeeec21",
+        "title": "Pak theme of WWII",
+        "description": "The mod is dedicated to the theme of World War 2 and includes a couple of tanks, a helicopter (off topic) and weapons."
+      },
+      {
+        "key": "c8618ed4329a3f7ac79acd83092dbdff",
+        "title": "M1 Abrams",
+        "description": "Adds American tank M1 Abrams. Perfect for creating a tank battle themed map."
+      },
+      {
+        "key": "b5fece102c0cc1fb4f6dda3e3df69dd9",
+        "title": "Tank Panther",
+        "description": "The mod adds a German tank \"Panther\", which will fit perfectly on the map dedicated to tank combat or the Second World War."
+      },
+      {
+        "key": "4722c57cd869672a7715ab2b1591c7e2",
+        "title": "Leopard 2a7 - modern tank",
+        "description": "Mod for a modern German tank Leopard 2a7. It is currently used as a layout in the game and cannot shoot and drive, but we hope that Melon Playground developers will implement this feature soon."
+      },
+      {
+        "key": "82e7b745fc3124777e05d0294806d0f2",
+        "title": "Military equipment (5 units)",
+        "description": "Mod several units of military vehicles, 5 in total. There is a rocket launcher, a jeep, an old tank and a couple of armored personnel carriers."
+      },
+      {
+        "key": "099ba0f6effa729e3c6c1d33ce91aff4",
+        "title": "War mod – Huge War military mudpack",
+        "description": "Mod dedicated to the theme of war from the author Alexandr Melon. The composition includes 14 add-ons, a couple of helicopters, several flags of states, helmets, a bunker, a barricade in the form of sandbags."
+      },
+      {
+        "key": "269d421f292ff52ff21765e245094202",
+        "title": "T 64 BM - Soviet tank",
+        "description": "T64 BM is a modernized version of the Soviet tank, which underwent changes in early 2003 in Ukraine. In the game, it has a view with an ammo rack and the ability to seat a tank crew."
+      },
+      {
+        "key": "3854c707d4119cf502a3db96e1e70e78",
+        "title": "Green tank",
+        "description": "The mod adds a small tank. The tank cannot shoot and lead the crew, it serves as a decoration on the map dedicated to some event or a recreation of the battle for the state."
+      },
+      {
+        "key": "04fe9ed4f40d12a834bcc69be6a39f72",
+        "title": "Tank KV-1",
+        "description": "The mod adds the Soviet tank KV-1. Unfortunately, he cannot shoot, but with this tank, a new category opens in modding. We hope that soon the developers of Melon Playground will implement the possibility of creating shooting equipment and weapons as it is done on the PC version of the game (People Playground)."
+      }
+    ]
+  },
+  {
+    "category": "People",
+    "key": "people",
+    "items": [
+      {
+        "key": "28c29bcfc8530b2bdb2140afb0922965",
+        "title": "NPC Standoff 2",
+        "description": "In the package:\n\nSpecial Forces\nterrorist\nterrorist in a gas mask"
+      },
+      {
+        "key": "29e17b69928b9c55d95b6557d5e6b99e",
+        "title": "Stick war legacy pack",
+        "description": "Stickman-themed NPC that contains:\n\nRegular Stickman;\nIn a helmet;\nIn a mage's hat;\nWith a skeleton face.\nItems:\n\nShield\nA statue\nStaff\nGold\nBag\nOnion\nMace\nHelmet\nMage's hat\nSkeleton face\nBag of arrows"
+      },
+      {
+        "key": "af3d844e812c6cd4657e10080471a569",
+        "title": "Crocodile Gena and Cheburashka",
+        "description": "Cheerful pack with cartoon characters Cheburashka and Gena.\n\nWhat is:\n\nCheburashka\nOld Shapoklyak\nCrocodile Gena\nRat Lariska\nBox\nMandarin\nShapoklyak bag (need to be reduced through resize)"
+      },
+      {
+        "key": "c020982db848186ea65bf68693517517",
+        "title": "Korn - bot",
+        "description": "New character for the game - Korn.\n\nPeculiarities:\n\ndoes not burn;\nmore detailed texture;\nlocated in the living tab."
+      },
+      {
+        "key": "7dc275fe4c13085eab5f9f3d53b5359c",
+        "title": "Robot mod",
+        "description": "Adds three variants of robots:\n\nBasic\nEndo skeleton\nBeaten up\nWhat can't be done:\n\npierce;\nsmash;\nSet fire.\nWhat can be done:\n\nDissolve with an explosion;\nDisassemble;\nDissolve with water.\nPeculiarities:\n\nThe blood is blue;\nHit boxes made of metal;\nOne foot is not made of metal, so that you can stick a syringe or something like that."
+      },
+      {
+        "key": "03cf4b006c7959838178e5d1b31b3089",
+        "title": "Electro High Voltage",
+        "description": "Remember the villain Electro from Spider-Man High Voltage? Now he got to Melon and is ready to act villainously in the game.\n\nPeculiarities:\n\nhe is blue\nhe has free light"
+      },
+      {
+        "key": "daa7508f4d03911b503fa7496effe09f",
+        "title": "Squid Game Characters",
+        "description": "Mod for three characters from the popular drama \"Squid Game\".\n\nIncludes characters:\n\nA circle\nSquare\nTriangle"
+      },
+      {
+        "key": "86f451f3c39b0e4d2af6edf939233f02",
+        "title": "NPC Jason Voorhees Friday the 13th",
+        "description": "Adds a famous antagonist from an old horror movie.\n\nPeculiarities:\n\nThe perfect maniac killer. This image is always in fashion;\nThey were warned... Now let them blame themselves."
+      },
+      {
+        "key": "4454f68460680c711027c30de7d87cc1",
+        "title": "Hitman and John Wick",
+        "description": "You can play with your favorite character or make a series with Hitman and John Wick.\n\nTo prevent the character from breaking into two parts, you need to spawn it on a pause, pull out the syringe and poke it back in."
+      },
+      {
+        "key": "9c85052fc4cd170d1205ad91b96d339d",
+        "title": "Man in clothes",
+        "description": "Among the usual Melon characters, you can now use this mod in the form of a real person.\n\nPeculiarities:\n\nRed blood\nLooks good with other clothes\nMan in clothes, but you can wear another"
+      },
+      {
+        "key": "82ea2b5ab35483b2df2491e78cf79de9",
+        "title": "Mutants from Stalker",
+        "description": "The park presents the monsters themselves and parts of their bodies. In addition to a series of mods on the theme of STALKER.\n\nWhat is:\n\nJerboa\nbloodsucker\nPseudogigant\nFlesh\nBoar\nChimera\nSnork\nController\nBurer"
+      },
+      {
+        "key": "1a6aa8f978d7b052a5ebef56ffd8a943",
+        "title": "Robotic skeleton",
+        "description": "Cool character for your scenes. There are many features:\n\nOil instead of blood\nThe fire does not kill him, but slows him down for a while (overheating)\nCan break in pieces, but the pieces cannot be broken against walls and other objects\nCan cut anything (knives in hand)\nCan self-destruct (belly bomb)\nbullet resistant\nA little taller than a watermelon"
+      },
+      {
+        "key": "1f9aed1a12c82c1687a33fcd7ad5f123",
+        "title": "Sower",
+        "description": "In the mod:\n\nHead\nJaw\ntorso\nShoulder\nHand\nLeg\nOne of the creatures of the Last Sunset mod pack."
+      },
+      {
+        "key": "2b5920a6b06133297d6e937e4ec3fc06",
+        "title": "Gravity Falls pack - animated series characters",
+        "description": "Characters from the animated series Gravity Falls.\n\nThe pack includes:\n\nDipper Pines;\nMabel Pines;\nWendy Corduroy;\nZus Ramirez;\nStanley Pines;\nWaddles;\nBill Cipher;\nDiaries (1,2,3);\nDwarf.\nFor Bill, it is desirable to apply Disable gravity.\n\nAll characters, like statues, in Melon Playground have not added the ability to create living NPCs."
+      },
+      {
+        "key": "7a1ea5e4244b9447c73dccc9af5d5e90",
+        "title": "Pack Man mod",
+        "description": "A small pack of heroes from the famous pack man game.\n\nThe mod contains:\n\nred ghost\norange ghost\npink ghost\nblue ghost\nGhost\nsmall dot\nbig dot\nCherry\npack man"
+      },
+      {
+        "key": "53daa2a6b128c85e9f1321dc036d86f3",
+        "title": "Mobile robot",
+        "description": "The robot consists of several parts that need to be assembled.\n\nThe composition of the mod:\n\nHead\nBody\nHand\nLeg"
+      },
+      {
+        "key": "dca35b9e48f0b49ac55ce9913ff5215d",
+        "title": "Game Concepts Mod - map, people, syringes",
+        "description": "The Game Concepts mod adds the ability to create a map to the game. The pack contains syringes, people, a map, a machine gun and other items that allow you to create a full-fledged location in Melon Playground."
+      },
+      {
+        "key": "b9458ff8848da622e408949784593389",
+        "title": "Bone monster",
+        "description": "Adds a bone monster with its own characteristics.\n\nPeculiarities:\n\nCan be broken by tearing off the main head\nYou can connect parts with parts of other monsters"
+      },
+      {
+        "key": "948796702df4b0d4dcc038ef371f183e",
+        "title": "New world and monsters",
+        "description": "A large mod pack on the theme of the game God of WAR contains 35 items and characters. In order for all add-ons to be available in the game, you must first go to the mod editor and then exit."
+      },
+      {
+        "key": "75b48cf8e85669fc3f876da6c1b060c7",
+        "title": "God of WAR (35 items)",
+        "description": "A large mod pack on the theme of the game God of WAR contains 35 items and characters. In order for all add-ons to be available in the game, you must first go to the mod editor and then exit."
+      },
+      {
+        "key": "6fa3228d02c1f6ba7cd885b2b6b055c2",
+        "title": "Toys from Poppy Playtime",
+        "description": "A small pack of toys from the popular horror game.\n\nWhat is:\n\nHuggy Wagi\nKissy Misi\nbee cat\nBron\nPablo"
+      },
+      {
+        "key": "60f46b7f586f23cdeeff5880b6f5ea0f",
+        "title": "Omnidroid from the cartoon The Super Family",
+        "description": "Taken from the cartoon The Super Family.\n\nPeculiarities:\n\nBody\nLateral tentacles\nFront tentacles\nclaws"
+      },
+      {
+        "key": "58932fe3364aabfc2c66e22d0e172f68",
+        "title": "Infected Melon — Зараженный Арбуз",
+        "description": "Additions:\n\nHead\ntorso\nHand\nLeg\nThere is Glow."
+      },
+      {
+        "key": "10b2de904e9411f53904dc3a10d89b66",
+        "title": "Brawl stars pack - characters",
+        "description": "Adds characters similar to characters from Brawl stars."
+      },
+      {
+        "key": "724002adf2d5c6934cf2ba5f43f3259c",
+        "title": "Bosses from the game Terraria",
+        "description": "A pack of bosses familiar from the game Terraria. The pack contains:\n\nmoon lord\neye of ktuhu\nSleepwalker\nPlantera stage 2\nSlug King\nqueen bee\nSkeletron Wall of Flesh\nRandomizer 2 stages\nSpasmism stage 2\nmechanical worm\nSkeletron Prime\nGolem"
+      },
+      {
+        "key": "4e101f2cb4181b1dd7632e9eed00a9bd",
+        "title": "Robot with batteries",
+        "description": "A small robot with individual batteries."
+      },
+      {
+        "key": "eb73ee6694a05d7de21f152cf45fb8be",
+        "title": "Kids",
+        "description": "Adds small children of the main characters of the game.\n\nUpdated, as part of the pack:\n\nBaby Malone 🍉\nBaby Pumpkin (new) 🎃\nBaby Corn (new) 🌽\nBaby Apple 🍎"
+      },
+      {
+        "key": "65de1b1c3db37d1682aa941eb2bc998d",
+        "title": "Slime from Minecraft",
+        "description": "Mod for slime (from Minecraft animation about Steve and the Creeper). The slime can swim, and his hat is made of fabric, and his body is made of fruit, because fruits have a similar sound to slimes. The author decided to make it rounded."
+      },
+      {
+        "key": "3862e9d65be465efc9de767762d95c63",
+        "title": "FNAF big mod",
+        "description": "A new version of the FNAF mod with the main characters from the game."
+      },
+      {
+        "key": "fa4858ac7ca71a608f5e499484a3df00",
+        "title": "Human organs",
+        "description": "Use human organs to build fun scenarios in the game. In total, there are 4 organs in the pack:\n\nHeart;\nBrain;\nEye;\nLungs."
+      },
+      {
+        "key": "e14feded23af5d5fe59e3e6841ad027b",
+        "title": "Mob Steve from Minecraft",
+        "description": "Mob known from the game Minecraft - Steve. Together with other mods on the theme of this game, it will be a great addition to your scenarios."
+      },
+      {
+        "key": "e6d448f56de6ee3cc02f1b4d79652518",
+        "title": "Pack on villains Pennywise Chucky Saw",
+        "description": "Mod adds several famous characters from horror movies. There is a Chucky doll, the antagonist from the movie Jigsaw, the clown Pennywise and others. There are 15 characters in total in the pack + bonuses."
+      },
+      {
+        "key": "51b7983d560cd680fb2132213e04b86e",
+        "title": "Steven Universe 2.0",
+        "description": "Many of you know the cartoon Steven Universe, this mod contains characters and items on the theme of it. This is the second version which contains 11 items."
+      },
+      {
+        "key": "63713ec18dc16f10881401e34bc25b76",
+        "title": "Anime girl",
+        "description": "A simple anime girl mod. Who knows the name, write in the comments. Is it really worth it to make these modifications?"
+      },
+      {
+        "key": "84ed4374093480c99ac07fbe8cc77e82",
+        "title": "Mortal Kombat Characters + Krueger",
+        "description": "The mod was made on the theme of the game (and a series of films) about Mortal Kombat."
+      },
+      {
+        "key": "600aaa5befd69dfe3b927a1e1d37e5ad",
+        "title": "Iron Man - Tony Stark",
+        "description": "The mod adds several variants of Tony Stark in the Iron Man suit. Great mod for creating a superhero card."
+      },
+      {
+        "key": "c23e747b4df1ab6cd4280a16aac89508",
+        "title": "Jason and Freddy Krueger",
+        "description": "The mod will add famous horror movie characters Jason and Freddy Krueger. Each of them has several variants of its kind."
+      },
+      {
+        "key": "c822f68e438622d25a3cbf9204b18c7a",
+        "title": "Undertale Characters",
+        "description": "Mod Undertale will add new characters from the game of the same name. There are 7 additions to the game in the archive."
+      },
+      {
+        "key": "e3fd96392d734876364ad67314bd710a",
+        "title": "Mario - characters",
+        "description": "Will add three characters to the game Mario. In the future, it will probably be updated, getting new heroes and additions from the game."
+      },
+      {
+        "key": "fe12282929e73b35d748e71033b73225",
+        "title": "Star Wars mod",
+        "description": "Create a space map using the mod that was made for our site. It contains 20 Star Wars themed add-ons. There are main characters, lightsabers, Darth Vader and other familiar things."
+      },
+      {
+        "key": "e7cb558f52b5d1ea6a2bb0a1cbe3dde2",
+        "title": "SCP mod - monsters and anomaly",
+        "description": "The topic of scp in games has always been interesting for its anomalous additions. This pack is dedicated to scp and contains 14 additions to Melon."
+      },
+      {
+        "key": "df2c23eb808be09e5e42a6d59514c3d4",
+        "title": "Steven Universe",
+        "description": "The mod will add 6 characters known from the animated series Steven Universe."
+      },
+      {
+        "key": "ce9ebfe0c8cf7696676885fea630bfad",
+        "title": "Mod for children",
+        "description": "The mod adds the children of the main Melon Playground characters and additional babies that will fit perfectly into the family map of the game."
+      },
+      {
+        "key": "ca1d183c5d0779b0f4e510bf0a1316eb",
+        "title": "Metal Family characters",
+        "description": "The mod adds four main characters from the cartoon series Metal Family."
+      },
+      {
+        "key": "308d815004501161c09689ccea7949cd",
+        "title": "Fruit weapon",
+        "description": "The pack contains weapons and a character related to the theme of the game Melon Playground. This is a type of fruit weapon. Quite an interesting mod that is worth downloading and installing into the game.\n\nThere are 10 additions in total."
+      },
+      {
+        "key": "a85783ec163854d2334bb9756dd9fc1f",
+        "title": "Red Amongus",
+        "description": "The mod adds a character from the game Among As in red. Perhaps this is a traitor or an ordinary resident of your ship."
+      },
+      {
+        "key": "4dfdf2e5a90f2157a226db9a40992f38",
+        "title": "Nightmare animatronics",
+        "description": "The mod adds five nightmarish animatronics from FNAF 4:\n\nFreddie;\nChica;\nBony;\nFoxy;\nFredbear."
+      },
+      {
+        "key": "f8181ceecdbeb8346e9a0f21d409eaf1",
+        "title": "Squid Game - Characters",
+        "description": "The mod will add three new characters related to the theme of the squid game. There is a guard, a doll and a participant."
+      },
+      {
+        "key": "4adbd537b01f90930d34b55d26c6dae8",
+        "title": "Among As characters",
+        "description": "Representatives of the race Among Us got into the reality of Melon Playground. Accept the aliens properly and do not say who is the traitor in this difficult world.\n\nIn the pack:\n\nRed;\nBlue;\nOrange;\nNot black."
+      },
+      {
+        "key": "c768b74c5d1504ac4fc157bfb551a616",
+        "title": "Iron Man (Tony Stark)",
+        "description": "The mod adds a couple of iron man suits and Tony Stark himself."
+      },
+      {
+        "key": "5f99320f4e4cc6f5c9524ae66160ad0d",
+        "title": "Characters from FNAF 9",
+        "description": "The mod adds new characters that you are familiar with from the FNAF 9 game. In total, there are 12 heroes in the pack, a couple of which are not very stable and always fall when installed."
+      },
+      {
+        "key": "7b8cfd2a56e1f45bd4a916d850a029c7",
+        "title": "Characters from Dota 2",
+        "description": "The mod adds 9 famous Dota2 game characters to Melon."
+      },
+      {
+        "key": "1639d93e53d495a88a01e32711d21d69",
+        "title": "Fredbear's Family Diner Characters",
+        "description": "Adds all characters from Fredbear's Family Diner to Melon. There are currently 13 heroes in total."
+      },
+      {
+        "key": "1eef28b9ddc3af420bea67cf0786a912",
+        "title": "Golden Bear Freddy",
+        "description": "Adds FNAF Freddy the Golden Bear figurine. Two and a half times smaller than a human."
+      },
+      {
+        "key": "58d453afee4bd6c8700481c55df81d8f",
+        "title": "Additional people",
+        "description": "You can add the correct name of the mod in the comments. Add additional people to the game, all different and wonderful. They remind me of someone, but it is not clear who."
+      },
+      {
+        "key": "e973a8258b1a8103f341a6ccfcd67c6c",
+        "title": "Big pack on the theme of FNAF",
+        "description": "The mod contains many characters and animatronics from the FNAF game, which can be downloaded and used individually. After downloading the archive, it must be unpacked into the mods folder in the root of the game files."
+      },
+      {
+        "key": "9c53a4a4d40e4d268180b58033274e09",
+        "title": "The main characters of South Park",
+        "description": "A small mod for the heroes of the notorious animated series \"South Park\". The pack includes a stop and four characters:\n\nKyle;\nKeny;\nCartman;\nStan March."
+      },
+      {
+        "key": "7e22e93846d68dd0bec022615eb4b780",
+        "title": "FNAF toys",
+        "description": "The mod will add 4 plush toys known from the game fnaf. Any of them can be taken in hand."
+      },
+      {
+        "key": "52371c82b3dfe4eb5f6188fbf4117a37",
+        "title": "Baby FNAF 5",
+        "description": "Expand your collection of FNAF characters with a hero in person - Baby."
+      },
+      {
+        "key": "f0ed5f7166af23b7200afceae0a52711",
+        "title": "Mod for Angry Birds",
+        "description": "Angry Birds made it to Melon Playground. Download the mod and have fun! The pack contains birds, the main blocks of the first stages of the game and pigs."
+      },
+      {
+        "key": "a298ebc2480bd2ba067cec758ca46a80",
+        "title": "Freddy plush toy",
+        "description": "Mod for little plush Freddy."
+      },
+      {
+        "key": "db913aba2799f662259b817c978c73a9",
+        "title": "Big Rus mod 6!",
+        "description": "6 version of the Rus mod, which was replenished with new items, cars and other additions with which you can create a cool Rus location."
+      },
+      {
+        "key": "1a84f7a91a2ee243716591e9799d55ca",
+        "title": "Pack for many items from Minecraft",
+        "description": "Introduces the 2nd beta version of the mega pack of items from Minecraft for Melon. There are 72 add-ons in total, of which it is not recommended to take a block called “SFFONADA” during construction, because. it is very large and can destroy your starting building.\n\nThe pack has almost all the blocks, beams, interior items, torches, food, lane heroes and much more."
+      },
+      {
+        "key": "8a4ba8375df10f27cd7f103cfa0c7bc4",
+        "title": "People Playground in Melon",
+        "description": "Many of the fans of Melon Playground played the PC version of the game (People Playground), so the mods from the pack will be familiar.\n\nAuthor - Alexandr Melon created an android, a man, a gorse and a turret that you can use for your maps."
+      },
+      {
+        "key": "db608e0c27e809a02f7793d383568abd",
+        "title": "KRD characters",
+        "description": "Want to get anime characters into the game? Download the archive with mods and install in the game. There are 8 heroes in total."
+      },
+      {
+        "key": "bf15eb86be4c4bb8aa2f3e3fbbf3ffef",
+        "title": "Brawl mem - heroes of Brawl Stars",
+        "description": "Memes from Brawl Stars that can become the heroes of your stories and videos in Melon. There are four characters in total:\n\nCrow;\nElprimo;\nSheli;\nLyon."
+      }
+    ]
+  },
+  {
+    "category": "Weapons",
+    "key": "weapons",
+    "items": [
+      {
+        "key": "dc78c8ca3cc51debbf6ed878e4b48832",
+        "title": "AKs-74",
+        "description": "The famous Soviet AKS-74 assault rifle with a folding iron stock.\n\nPeculiarities:\n\nYou can take it in hand.\nFlat hitboxes.\nDoesn't shoot.\nGlow only one."
+      },
+      {
+        "key": "521c43dfb6e5c2c14e459ee973dda685",
+        "title": "Makarov gun",
+        "description": "Suitable for police or gang props in your scenarios.\n\nPeculiarities:\n\nDoesn't shoot\nCan be taken in hand\nThere is a Glow texture."
+      },
+      {
+        "key": "0acb4f13f041d8045d93558013e2e707",
+        "title": "Game concept mod",
+        "description": "The Game Concepts mod adds the ability to create a map to the game. The pack contains syringes, people, a map, a machine gun and other items that allow you to create a full-fledged location in Melon Playground."
+      },
+      {
+        "key": "b06a9443f76a08b48af04bf4f0702030",
+        "title": "PTRK AT4",
+        "description": "ATGM is suitable for military scenarios.\n\nThere are two AT4s in the archive, one with a belt and the other without.\n\nPeculiarities:\n\nCan be taken in hand\nThere is a Glow texture"
+      },
+      {
+        "key": "dcb8d1f495f13decdc13eb24af7a1c39",
+        "title": "Unusual weapons",
+        "description": "The pack includes:\n\nIron Pipe +Glow\nplunger\nCrutch +Glow\nCane\nStaff\nrolling pin\nGolf club +Glow\nBroom"
+      },
+      {
+        "key": "8f448fce3e65dd9c33eccebf15f00d2b",
+        "title": "Wild west pack",
+        "description": "The pack will allow you to create a scene on the theme of the Wild West. The pack contains:\n\nRevolver\nWinchester\nCactus\nwagon\nWheel\nCowboy hat\nWanted ad\nsheaf of hay"
+      },
+      {
+        "key": "e5ad54c1e1c81d5a5f3eb3b8c82e3e33",
+        "title": "Bats",
+        "description": "A set of five clubs of different types.\n\nWhat is:\n\nbaton\niron bat\nregular bat\nclub\nprickly club."
+      },
+      {
+        "key": "bdf9030d486dd3aba8b4c864f049e7c4",
+        "title": "Air Defense",
+        "description": "Additions:\n\nTurret gun\nTurret base\nprojectile\nSeat"
+      },
+      {
+        "key": "109f7784ccb0ac7f9389f2406e6fecb0",
+        "title": "Shelly Gun",
+        "description": "Shelley's famous cannon from Brawl Star. Peculiarities:\n\nGlow texture;\nCan be picked up;\nTitle in Russian;\ndoes not shoot ("
+      },
+      {
+        "key": "bc31c235dd14326259d6e569e5a4b110",
+        "title": "Maxim machine gun",
+        "description": "Cool machine gun for your scenes. Peculiarities:\n\nMachine gun itself with Glow\nMachine gun wheel\nAmmunition"
+      },
+      {
+        "key": "b4ea60345b56b4ac6238713cda46642a",
+        "title": "Sword from Terraria",
+        "description": "What is:\n\nZenith\nTera sword\nSword of the Martians\nSword eclipse \"pumpkin\"\nSword cast\nExcalibur"
+      },
+      {
+        "key": "8a95771411cbe563e0f938cec610661f",
+        "title": "Block strike Weapons",
+        "description": "The mod adds several types of small arms and melee weapons familiar from the game Block Strike."
+      },
+      {
+        "key": "977062175a04db2b3d922b981f8b9df9",
+        "title": "Pirate Cannon",
+        "description": "In the mod:\n\nA gun\nwheels\nNucleus\nsmall core\nSaber"
+      },
+      {
+        "key": "b91d4780e9608e7d2f183a8656bb7a09",
+        "title": "Table Knife",
+        "description": "Found in the weapons tab\nCan be taken in hand\nThere is a glow Texture\nStupid"
+      },
+      {
+        "key": "25425fc95b2b078e376d885e8025391d",
+        "title": "RPG7",
+        "description": "The kit includes:\n\nRPG-7V with projectile\nRPG-7V without projectile (can be loaded independently)\nProjectile for RPG-7V\nThe author advises to trim the projectile with resize."
+      },
+      {
+        "key": "8ab362c36d1ff1665d3af0af64da865f",
+        "title": "Weapons from Standoff 2",
+        "description": "32 types of firearms from the game Standoff 2. Suitable for cool military scenarios in Melon."
+      },
+      {
+        "key": "3a05fc411546f9d24131141175172229",
+        "title": "Cornobul mutants weapons",
+        "description": "Cornobul is a mod that includes 26 different items, weapons and mutants. Made on the theme of \"Chernobyl\"."
+      },
+      {
+        "key": "d8a1e209f3aff7fd6e07a881b8d0beb8",
+        "title": "Survival pack",
+        "description": "A large pack with various items for a survival scenario.\n\nTools:\n\nAxe\nA hammer\nPick\nSickle\nKnife\nFood:\n\nCanned porridge (brown)\nCanned stew (grey)\nBurger\nA sausage sandwich\nBottle of water\nCanned meat (red)\nCanned vegetables (green)\nCanned fish or seafood (blue)\nRed Apple\nGreen apple\nWeapon:\n\nChainsaw\nPistol\npistol cartridge\nScenery:\n\nFlower with a pot\nBackground:\n\nsky background\nGrass background"
+      },
+      {
+        "key": "55d238277ad443619ee8049c61e1c687",
+        "title": "Tonfa transmitter",
+        "description": "Adds a tonfa (police baton) and a walkie-talkie with good texture and the ability to pick them up. Suitable for different scenarios in the game."
+      },
+      {
+        "key": "4843e2d4a0480f09aab50175040e98cf",
+        "title": "Police Pack",
+        "description": "Pack on a police theme with a helicopter, pistol, police and special vehicles."
+      },
+      {
+        "key": "ca31ca457442f2586678e526eb973c9d",
+        "title": "Laser aim",
+        "description": "A naval ship is a military ship used by a navy. Naval ships are differentiated from civilian ships by construction and purpose."
+      },
+      {
+        "key": "7d139bb54716a8dbd401ef24ad194bdd",
+        "title": "Decorative rocket",
+        "description": "Decorative rocket mod from (the author is indicated on the screenshot), can be used as a decoration for films, (you can shoot from a cannon)."
+      },
+      {
+        "key": "0be451586279716e0b314df786540f72",
+        "title": "Metal bat",
+        "description": "It will help to slightly diversify the list of melee weapons in the game."
+      },
+      {
+        "key": "1ab8b0b1449d3114548d9ae8be17bb67",
+        "title": "Turrel",
+        "description": "Adds a structure in the form of a turret. Suitable for a roadblock or a military scenario theme."
+      },
+      {
+        "key": "97e10fc0bb0e0817b116b3b8bcd48b07",
+        "title": "Millitary things",
+        "description": "A naval ship is a military ship used by a navy. Naval ships are differentiated from civilian ships by construction and purpose."
+      },
+      {
+        "key": "8c405a6853e5e66c7a890db6e7727fb9",
+        "title": "Pack Knife Z9 Standoff 2",
+        "description": "The mod will add 9 knives familiar to us from the game Standoff 2."
+      },
+      {
+        "key": "65fb233f79c82257110d4ad52dfe5e5a",
+        "title": "Kerambit Claw",
+        "description": "The mod adds a combat karambit \"Claw\" from the game Standoff 2."
+      },
+      {
+        "key": "5d9ce6203fd7db0dacdacc9d4b597033",
+        "title": "Tanto Malahit Standoff 2",
+        "description": "Adds the Malachite battle sword familiar to us from the game Standoff 2."
+      },
+      {
+        "key": "d8654dac78bc92a83de589b596132fd8",
+        "title": "Flame weapon",
+        "description": "Want to light something up or grill a chicken? The flamethrower mod will help you with this. Looks epic."
+      },
+      {
+        "key": "703ea1c0123aff027f572998e785ebe7",
+        "title": "Crussader crosbow",
+        "description": "The section of ancient weapons is supplemented by a premium mod for the \"Crossbow\", according to the author's description, this is a crusader weapon. It can injure or destroy the enemy. As planned, it shoots syringes of any content."
+      },
+      {
+        "key": "96fb7ab8fbce7fadc0fe40c3bdfd29a8",
+        "title": "Police vs criminal",
+        "description": "The mod contains 4 items that are suitable for creating a game scenario where there will be policemen and criminals. As part of the mod;\n\nPolice shield;\nScrap;\nPistol Glock 17;\nClub."
+      },
+      {
+        "key": "b91712fe5f6e42432a66c7d8d7c6e434",
+        "title": "Old gun",
+        "description": "Adds a cannon with cannonballs. It consists of three parts that need to be combined to get a full-fledged gun."
+      },
+      {
+        "key": "67f117d429486b8f077f10cacbc9cb11",
+        "title": "Machine gun mod",
+        "description": "Mod adds a machine gun in the form of a minigun. It has legs for more stable shooting."
+      },
+      {
+        "key": "0061c8505f6ef6ea6f93c97d6d0f12e8",
+        "title": "RPG Mod",
+        "description": "The mod will add an RPG (does not shoot). When picking up, it is better to turn off gravity, because. you can drop the watermelon."
+      },
+      {
+        "key": "b19b006b38fbc4c451fc393f583d9a8e",
+        "title": "Star wars mod",
+        "description": "Create a space map using the mod that was made for our site. It contains 20 Star Wars themed add-ons. There are main characters, lightsabers, Darth Vader and other familiar things."
+      },
+      {
+        "key": "7d43eeba3efdcc67cd06b45ff71357c0",
+        "title": "Fruit gun",
+        "description": "A naval ship is a military ship used by a navy. Naval ships are differentiated from civilian ships by construction and purpose."
+      },
+      {
+        "key": "e4fd0979964f236996b1de67f082d69a",
+        "title": "Weapon pack Hotline Miami",
+        "description": "Hotline Miami is the basis for creating this pack. Contains 8 items of melee and firearms."
+      },
+      {
+        "key": "35d9ebdf1c337d737b14e363c90cdbb4",
+        "title": "AK47 mod",
+        "description": "Adds the Soviet AK 47 assault rifle to the game. The size is 1 to 1, looks great in the hands, does not shoot."
+      },
+      {
+        "key": "54f3041169ea9bd478d0df658cad1cbc",
+        "title": "WW2 pack",
+        "description": "The mod is dedicated to the theme of World War 2 and includes a couple of tanks, a helicopter (off topic) and weapons."
+      },
+      {
+        "key": "5ff8e18f3d331907c1f5f1f9c2b782f5",
+        "title": "Ice weapons Black Ice Bundle",
+        "description": "Black Ice Bundle mod will add familiar small arms to the game. It can't shoot, but it has a cool look that will help when creating military-themed maps."
+      },
+      {
+        "key": "e8fc21193b43a86e367634b81b7d5143",
+        "title": "Weapons pack 6",
+        "description": "The mod will add a small pack to firearms. A couple of guns will be familiar to you from the Roblox game. There are a total of 6 weapons in the pack."
+      },
+      {
+        "key": "80e8737f63707c68376fcc9d7ab47eb5",
+        "title": "Thompson gun",
+        "description": "Adds the famous Thompson submachine gun, the favorite weapon of mid-60s American gangsters."
+      },
+      {
+        "key": "f9614e47c050f123cef3ac8f1a51448c",
+        "title": "M16",
+        "description": "The mod adds the M 16 rifle, which is probably a hundred times larger than the standard weapon. Think about how to use it and share in the comments what you think about this modification."
+      },
+      {
+        "key": "8507a048af0f24c68c4fbccc18900d65",
+        "title": "Huge War military",
+        "description": "Mod dedicated to the theme of war from the author Alexandr Melon. The composition includes 14 add-ons, a couple of helicopters, several flags of states, helmets, a bunker, a barricade in the form of sandbags."
+      },
+      {
+        "key": "177768634b41d077bc749d144c5be7b4",
+        "title": "Weapon pack 5",
+        "description": "Pack mod for 5 weapons, all firearms. The mod includes:\n\nAutomatic (Ak 47);\nUzi;\nShotgun;\nRifle M-16;\nPistol."
+      },
+      {
+        "key": "fad3f69768c5063fb612281a9b3e74ba",
+        "title": "Two hammers",
+        "description": "The archive contains two files for hammer mods. One hammer has the inscription \"BAN\", the second without an inscription in gold color."
+      },
+      {
+        "key": "2fa004557278708af193cd35cec3e5e2",
+        "title": "Bendy Axe",
+        "description": "Beautiful Bendy ax from the game of the same name. Use as the main weapon of your heroes or as an interior decoration when building rooms and houses."
+      },
+      {
+        "key": "ded5d2e2ab8ed1ae76b0201297d2a4e3",
+        "title": "Starwars lightsaber",
+        "description": "The second version of the mod for lightsabers and weapons from Star Wars for Melon. This is a large pack of add-ons, which includes:\n\nswords;\nSpears;\nPersonal weapons of the film characters;\nLight axes.\nFeature - in Russian."
+      },
+      {
+        "key": "d53453eb9b35969186f570d48758e74e",
+        "title": "Glock Gun",
+        "description": "The mod adds a large Glock pistol in a rainbow color, according to the author's idea, the pattern on the barrel should be in the form of fire, but he could not transfer the exact textures to the game, so what happened was what happened. It is slightly larger than the standard weapon in size, but it looks good."
+      },
+      {
+        "key": "53749a3983c04beb633908593618f397",
+        "title": "3 Knife",
+        "description": "The Toy Melee mod contains 4 weapons, of which 3 are melee and one is firearms. After installing in the mods folder, you will have:\n\nPistol (does not shoot);\nKnife M9;\nKarambit;\nButterfly knife."
+      },
+      {
+        "key": "cc8600decb96d0c080331fb5183da16e",
+        "title": "Thermo bomb",
+        "description": "Download thermonuclear bomb to decorate your map. Use the mod to create a cool map that will look like military operations or a nuclear weapons depot."
+      },
+      {
+        "key": "9914a0ce04a7b7b6a8e39bec55064b82",
+        "title": "Light",
+        "description": "The mod is a light-tipped spear, a great addition to the Star Wars lightsaber mod."
+      },
+      {
+        "key": "b5743b4d338b849d0a98cd491e9d7cb6",
+        "title": "Sword star wars",
+        "description": "The mod adds a lightsaber from the Star Wars movie. After giving the sword to a person, you can change the color. Below is a video of the author, which demonstrates the work of the mod."
+      },
+      {
+        "key": "c2de0405240da16bf11207c8155ed33a",
+        "title": "Terraria melee pack",
+        "description": "Terraria Melee Pack v0.3 additional weapons in the form of swords from the game Terraria. Adds:\n\nflying dragon;\nAll lightsabers;\nHellish;\nSower;\nRotting claws;\nFlux resonator;\nAll metal swords;\nEnchanted sword;\nflaming two-hander;\nBlade;\nKatana and more..."
+      }
+    ]
+  },
+  {
+    "category": "Airplanes",
+    "key": "airplanes",
+    "items": [
+      {
+        "key": "6c773d2ecb36753b2beb75922c4c6bf7",
+        "title": "Helicopter Save",
+        "description": "It's not a mod, it's a build. Able to fly forward and upward."
+      },
+      {
+        "key": "3c5442cfb6e2286025e5382a831e9721",
+        "title": "Simple plane",
+        "description": "Features - Can fly."
+      },
+      {
+        "key": "84ac13a9696967dc4dce46369e37e3d7",
+        "title": "Bomber",
+        "description": "Can drop an atomic bomb with a mechanism.\n\nYou can detonate a bomb by pressing a button, and drop it by using a lever.\n\nCan fly."
+      },
+      {
+        "key": "9c41d68420c1f7af7e03520d8780c0d1",
+        "title": "Wooden aircraft",
+        "description": "Brief instructions for use:\n\nWe press the button near the glass - the chassis will extend (circled in red)\nAfter this action, click on the button below - the turbine turns on\nYou can fly!"
+      },
+      {
+        "key": "39ea77213a0b6ca7d81f9afbf58d2a93",
+        "title": "Plastic planes",
+        "description": "A small package for airplanes. They are the same size, but with different colors, there is:\n\nWhite\nBlue\nViolet\nRed\nGreen\nOrange\nYellow\nGrey\nPeculiarities:\n\nEverything can be taken\nLots of different colors"
+      },
+      {
+        "key": "d682f5a7caac732f58710e0aa3e001ca",
+        "title": "Mi-28N (Night Hunter)",
+        "description": "The helicopter will be a great addition to the modern T-90 tank.\n\nHas desert camouflage"
+      },
+      {
+        "key": "9530f707eed8d2e4e27acfe195c2721c",
+        "title": "Military aircraft I-153 Seagull",
+        "description": "Adds an old but beautiful military aircraft."
+      },
+      {
+        "key": "1cc09d56b8f6edbde18047f0e4a81943",
+        "title": "Su 35",
+        "description": "The mod will add a super-maneuverable Su 35 fighter with missiles. Also see the second plane, which will perfectly complement the combat unit."
+      },
+      {
+        "key": "9957094993dcdb808c8fe68208eb42f8",
+        "title": "Fighter MiG 21",
+        "description": "The mod will add a Soviet 3rd generation fighter Mig 21."
+      },
+      {
+        "key": "97380cc852d972a0c8f88ea366409fc1",
+        "title": "Simple helicopter",
+        "description": "The mod adds a regular transport helicopter, which is used for rescue operations and the transport of passengers."
+      }
+    ]
+  },
+  {
+    "category": "Animals",
+    "key": "animals",
+    "items": [
+      {
+        "key": "34bd64c1a58482ade212de6d65bee596",
+        "title": "Megalodon",
+        "description": "Adds a large shark - megalodon.\n\nThe mod has two parts:\n\nBody;\nJaw."
+      },
+      {
+        "key": "7b8da3ab3f27091e4ebae7b55b616060",
+        "title": "Dinosaur skeleton",
+        "description": "The Dinosaur Skeleton mod is similar to the Tyrannosaurus Rex. Perfect for any survival scenario or setting up a Jurassic World scene."
+      },
+      {
+        "key": "521ca82967b314242dafa3de73ec8260",
+        "title": "Cornobul - mutants, weapons, things",
+        "description": "Cornobul – это мод включающий в себя 26 различных вещей, оружия и мутантов. Сделан на тему «Чернобыля»."
+      },
+      {
+        "key": "f744bf417d323bfac3108df8a3910f70",
+        "title": "Dinosaur - Raptor",
+        "description": "Adds a predatory dinosaur - Raptor. Slightly larger than a watermelon. With these mods, you can make a cool scenario on the theme of Jurassic Park."
+      },
+      {
+        "key": "e7cb558f52b5d1ea6a2bb0a1cbe3dde2",
+        "title": "SCP mod - monsters and anomaly",
+        "description": "The topic of scp in games has always been interesting for its anomalous additions. This pack is dedicated to scp and contains 14 additions to Melon."
+      },
+      {
+        "key": "8767a0948ab8e60f21c3a05949546131",
+        "title": "Undersea world",
+        "description": "Mod on the theme of the marine underwater world with sharks, a protective capsule for a diver and underwater mines."
+      },
+      {
+        "key": "f2e3e25e63be9acbb82c1e0ba8eabae6",
+        "title": "Godzilla",
+        "description": "Adds a huge Godzilla, which is about a hundred times larger than a regular watermelon."
+      },
+      {
+        "key": "8559975bae7aa67d2914e0e694709816",
+        "title": "Cat statue",
+        "description": "Every home should have a cat! Use this cat mod when decorating your home."
+      }
+    ]
+  },
+  {
+    "category": "Cars",
+    "key": "cars",
+    "items": [
+      {
+        "key": "4c005487717ff31f3831917e8fa0e7c9",
+        "title": "Imperial walker",
+        "description": "This building is dedicated to Star Wars fans.\n\nOf the features:\n\nCan shoot\nHas one turret and two speeders"
+      },
+      {
+        "key": "6ab349d983e81402454ba060d58c1cc1",
+        "title": "Truck tractor",
+        "description": "Save in the form of a truck tractor, in which you can put Watermelon.\n\nPeculiarities:\n\ndoes not lag on weak devices\nafter placement, you need to remove the wire that is attached to the wheel."
+      },
+      {
+        "key": "9447cde903defd34d6993302a3182dce",
+        "title": "Crash test truck",
+        "description": "A cool truck that can be used as crash tests and various scenarios on this topic. This is a saved building, how to install read the link next to the download button.\n\nPeculiarities:\n\nto move, you need to press the pedal under the foot of the watermelon\nto brake, you need to repeatedly press the pedal under the foot of the watermelon\ncan break headlights and windows\ncar can be broken\nVan and cabin separately"
+      },
+      {
+        "key": "9a702be07c43ea16e5e78e68b987ac19",
+        "title": "Dump truck",
+        "description": "Luxury truck (dump truck).\n\nControl:\n\nBottom button - gas / brake\nButton under the hood activates the pistons\nThere is also another piston on the edge, it serves to ensure that the load does not fall out while riding (Turn on manually)."
+      },
+      {
+        "key": "6f13850d3346c949c10c7bae79479ebd",
+        "title": "Truck",
+        "description": "A truck capable of moving and transporting various goods.\n\nPeculiarities:\n\nRides when you press the pedal under the foot of a watermelon\nBrakes when you press the pedal again under the foot of the watermelon\nHeadlights and window can be broken\nThe van opens"
+      },
+      {
+        "key": "f1bd668fae7f4a076ae96e149abd7197",
+        "title": "Turbine machine",
+        "description": "Machine with engine and turbine. Activate the engine via the button and the turbine manually."
+      },
+      {
+        "key": "086d328e8f1b10ea2897e2cf8979560f",
+        "title": "Mini car",
+        "description": "Work machine for one player from Cactus. Installed in the save folder. Instructions can be found below the download link."
+      },
+      {
+        "key": "585f98ed9d73111845ef5e876fd8c8dc",
+        "title": "Van",
+        "description": "Adds a van in which you can plant a watermelon, load it with various cargoes and send it to trade in another country."
+      },
+      {
+        "key": "49a34347727d5edfc229c1ca67aa5181",
+        "title": "GAZ Tiger - constructor",
+        "description": "Using this mod you have to assemble the Tiger from the constructor. The pack contains:\n\nBasis GAZ Tiger\nWheel\nKenguryatnik\nSeat\nSpare wheel\nIt can be used just like an armored car and an SUV!\n\nPeculiarities:\n\nFlat hitboxes.\nNothing needs to be increased."
+      },
+      {
+        "key": "07fcea09ced28fcf06f27ffb34acbdf4",
+        "title": "Police pack",
+        "description": "Pack on a police theme with a helicopter, pistol, police and special vehicles."
+      },
+      {
+        "key": "4d14cda485f18fb18f1ff073b533c14e",
+        "title": "Police car with glow",
+        "description": "According to the author's description, this is a police car with a glow. But it looks more like an ordinary car, because flashing lights are not implemented here. In general, a cool mod that can destroy the inhabitants of Melon."
+      },
+      {
+        "key": "f3ef96d3eb5b84a7eae25780430116b2",
+        "title": "Katyusha",
+        "description": "It adds the Soviet multiple launch rocket system - Katyusha. The author advises to use \"resize\"."
+      },
+      {
+        "key": "3bc1d1d6c74b11f285b5496b863009f1",
+        "title": "Red pickup",
+        "description": "The mod adds a large red pickup truck, which is perfect for placing a machine gun and a fighter in its back."
+      },
+      {
+        "key": "ce4ccb08b7f01212ecfb03d5de11c207",
+        "title": "Truck with open trailer",
+        "description": "A new truck that you can climb into, transfer people or things."
+      },
+      {
+        "key": "52d99d48d8e42b64bfcda6560cac8cdf",
+        "title": "Truck with a trailer",
+        "description": "The mod adds a truck with trailers in which you can load anything you want. The truck comes without wheels, you will need to install them yourself."
+      },
+      {
+        "key": "e34cb1c1cf4804bf5acf5de8852c74ab",
+        "title": "Big Russian mod 6!",
+        "description": "6 version of the Russian mod, which was replenished with new items, cars and other additions with which you can create a cool Russian location."
+      },
+      {
+        "key": "c8bce7460b41330e113f8825d606351d",
+        "title": "Pack of cars",
+        "description": "The mod will add 10 different cars and a bonus weapon (SCAR) to Melon Playground. Cars of different classes and purposes, you can fill a pickup truck with pumpkins and crash into a wall or create a racing-themed map."
+      },
+      {
+        "key": "5bfecc608c5272b69a75af29da690113",
+        "title": "Survival V5 - 42 items",
+        "description": "The Survival V5 mod is the latest version of the survival mod. Here the author finalized some textures and improved the whole pack. There are many items that are necessary for survival in difficult conditions far from civilization. It contains 42 items in total.\n\nThe entire composition of the pack with Russian translation, the author also added one item that displays the author's name and the method of communication."
+      },
+      {
+        "key": "7e8345883796ce3e133f9cd09a488b06",
+        "title": "Vaz 2106 - eggplant",
+        "description": "The mod adds the Soviet six (VAZ 2106) in the cool color \"Eggplant\". After installation, look for it in the section with swords."
+      },
+      {
+        "key": "7837c5700e457d4ba0e875407e9b31d2",
+        "title": "Pixel Car Racing - racing cars",
+        "description": "The famous Soviet AKS-74 assault rifle with a folding iron stock.\n\nPeculiarities:\n\nYou can take it in hand.\nFlat hitboxes.\nDoesn't shoot.\nGlow only one."
+      },
+      {
+        "key": "d6671e6a6dde5c0ddf88d788c2c007f9",
+        "title": "Russian V5 - Russian mod",
+        "description": "The Russian V5 mod contains a lot of things that are related to Russia. There is the Russian president, UAZ and Russian cars, a bottle of fire water, Navalny, grandmothers, herring, coins and more. There are 52 additions in total."
+      },
+      {
+        "key": "c8d5103e70e9756e9e8bf93b97257574",
+        "title": "Vintage black car",
+        "description": "The mod adds a black car from the beginning of the car era. Made very beautifully, but when a person gets into a car, there may be a small bug with the texture."
+      },
+      {
+        "key": "357fbea691e7e7991f0a77dee291955e",
+        "title": "Mod for 3 civilians and 1 police car",
+        "description": "Archive with 4 cars. One of them is a policeman, the rest look like racing ones."
+      }
+    ]
+  },
+  {
+    "category": "Buildings",
+    "key": "buildings",
+    "items": [
+      {
+        "key": "2767876db1424a768e0244019917716c",
+        "title": "Grocery store",
+        "description": "Pak includes:\n\nPrice tags: Weights, tea, rubber ring, kettle, plates, mugs, pumpkins, watermelon, apples and corn\nBasket and trolley in which you can put items\nCash register\nScales that can be increased at will with resize"
+      },
+      {
+        "key": "963695ded6583fecdbda7392e973ac6c",
+        "title": "Elevator",
+        "description": "Save as a working elevator. Suitable for buildings with three floors.\n\nControl:\n\nTop button - 3rd floor.\nThe bottom button is 2nd Floor.\nRepeatedly pressing any of the previously pressed buttons - First Floor."
+      },
+      {
+        "key": "107bb6fedf660f1c0574805ff388a9ff",
+        "title": "Mechanical dragon",
+        "description": "It is not recommended to download to players with weak gadgets.\n\nPeculiarities:\n\nAll parts of the dragon are movable\nIt is desirable to put the dragon on pause\nHas a mechanism by which it can release flames from its mouth"
+      },
+      {
+        "key": "f9de1cd032a863c86531592af8ba8b50",
+        "title": "Electric tower",
+        "description": "When creating the building, the author was inspired by the Stand from the anime \"JoJo's Bizarre Adventure (SuperFly)\""
+      },
+      {
+        "key": "6e5a907e67b27ba653869d0900731ea5",
+        "title": "Eiffel Tower",
+        "description": "Tower for maps of buildings and cities. If desired, you can increase through resize."
+      },
+      {
+        "key": "e8ecb4b64945e5c2f604de0b094e9dc1",
+        "title": "Multi-storey building",
+        "description": "Includes three items.\n\nInstallation recommendation:\n\nLast floor - 1 piece\nMiddle floor - as much as you like\nFirst floor - 1 pc."
+      },
+      {
+        "key": "432b9dd4e6a90d90173cc025c7710861",
+        "title": "Bunker",
+        "description": "The strong bunker consisting of two parts. Below is a tutorial on how to use all this and get a cool mod into the game.\n\nIn the archive:\n\nBunker\nStick"
+      },
+      {
+        "key": "2328b9b502447e42e5843293985f038c",
+        "title": "Two-storey house",
+        "description": "Adds a large two-story house to accommodate Melon residents. It is possible to change the size using \"Resize\"."
+      },
+      {
+        "key": "76909b4e2dc8b5149e07f7cc052113b8",
+        "title": "Pack of different blocks",
+        "description": "A large mod pack of different blocks to create cool scenarios in Melon. There are 16 items in total."
+      },
+      {
+        "key": "257510cf894d5cd46f8f94b65457a897",
+        "title": "Cannon turret",
+        "description": "Adds a structure in the form of a turret. Suitable for a roadblock or a military scenario theme."
+      },
+      {
+        "key": "a6dd0924d806618832cdbf610738a898",
+        "title": "Military things",
+        "description": "Create a real military corner with control systems using this mod. The pack contains furniture and weapons. There are 13 items in total."
+      },
+      {
+        "key": "0cddc124df1cfa6b459989f422bb4539",
+        "title": "Grave stone",
+        "description": "Adds a tombstone. There was already a similar mod, this one is its remake. Maybe someone will come in handy."
+      },
+      {
+        "key": "46e24806d31c94a7781e4375c651afd1",
+        "title": "Decorative ventilation",
+        "description": "You can use it for decoration. So that the character does not hit his head on the ventilation, click on Enable Collision.\n\nA screenshot of the vent burning with a watermelon is just a screenshot, it doesn't work in the mod unless the vent itself is set on fire."
+      },
+      {
+        "key": "25992aa84e85126d01d85fce02c9a3dd",
+        "title": "Decorative pipe 2",
+        "description": "Adds a decorative pipe that can be combined with similar modifications from the plumbing and construction section."
+      },
+      {
+        "key": "5a8d75cb106bf432606ef12f272ee91f",
+        "title": "Blocks from Minecraft",
+        "description": "The mod will add 9 new items familiar from the game Minecraft. These are the following blocks:\n\nWood;\nAxe;\nOak planks;\nWooden plank;\nBrick;\nPumpkin;\nWatermelon;\nBarrel."
+      },
+      {
+        "key": "643634566f91175e59e23321c52f4bc5",
+        "title": "Pipeline pipes",
+        "description": "The mod adds 5 items with which you can create requirements of different sizes and positions. To fasten, use a pause and then fix with ropes."
+      },
+      {
+        "key": "daf779ea2c49d4af8e5418a1b1a4db28",
+        "title": "Neon blocks",
+        "description": "The mod adds 6 new neon blocks of different colors. Excellent materials for building an entertainment club or bar."
+      },
+      {
+        "key": "476e53e999bd825857d87e934a928afd",
+        "title": "Bunker with additional things",
+        "description": "Mod for the bunker, and many other things! It is able to decorate your game by introducing more approximate things into it, for the theme of war."
+      },
+      {
+        "key": "823f165fe0255d0380eed16b0c6f4fed",
+        "title": "Fort - closed fortification with cannons",
+        "description": "A fort is a stand-alone fortification with several cannons to protect the game lines. In the game, it cannot shoot (yet), but it will perfectly decorate the military map."
+      },
+      {
+        "key": "25e69084af326369d280d8f1b30a8574",
+        "title": "Pack of blocks",
+        "description": "The mod adds a pack of blocks that will greatly help in the construction of various objects and maps."
+      },
+      {
+        "key": "d88f873eaff385ba1f81311634902c06",
+        "title": "Two-storey house with three rooms",
+        "description": "The mod will add a small two-story house with three rooms. Initially, it is smaller than the game characters themselves, so change the size of the house in the settings (photo below)."
+      },
+      {
+        "key": "406d8b265fdb5aa915e93e783e3d02b0",
+        "title": "Big house",
+        "description": "The mod will add a large house size, which can be changed with the \"resize\" settings."
+      },
+      {
+        "key": "e684d8eeee72ed2583865b78e8d3f57a",
+        "title": "Laboratory",
+        "description": "Experiment with people, do various studies using the liquid from the pack, diversify the gameplay with the laboratory mod."
+      },
+      {
+        "key": "bbe2172caeec6a5ec284d15090ef664a",
+        "title": "Headstones",
+        "description": "The mod adds elements of the grave using which you can make a creepy map."
+      },
+      {
+        "key": "4840d2555bd5f0b995eb76723c6c9055",
+        "title": "Bedroom",
+        "description": "The mod contains 10 items related to the bedroom."
+      },
+      {
+        "key": "97fb065d8cb3b0dbd97d655f3c575065",
+        "title": "School building",
+        "description": "Add a school building to the game and use other mods to decorate the area around the building. The mod goes great with the characters from the animated series South Park."
+      },
+      {
+        "key": "744dac271ae270d7443ee3344c600a12",
+        "title": "Five-storey building",
+        "description": "A five-story house with dynamic floors where you can install furniture and interior items. Great building to create a small town in the melon playground."
+      },
+      {
+        "key": "6659cb1e673271946a1a92c9373e9704",
+        "title": "Street lights (lighting)",
+        "description": "The street lights are blue in color and can light up when heated. An excellent lighting mod that will decorate the territory of the building in the form of a country house."
+      },
+      {
+        "key": "a6e10c0b1e007bb613ad027640699a2e",
+        "title": "Moat",
+        "description": "The mod will add a structure in the form of a moat or something similar, where there is water. The water here is visual and does not give a real effect if it were real."
+      },
+      {
+        "key": "def2dfc2dd3d44e1f89b417f179ee6fd",
+        "title": "Ring mod",
+        "description": "Can drop an atomic bomb with a mechanism.\n\nYou can detonate a bomb by pressing a button, and drop it by using a lever.\n\nCan fly."
+      },
+      {
+        "key": "d6f665af2c0f09e619f8db83e9472244",
+        "title": "Pack of home and office furniture",
+        "description": "A large pack for furniture and various items that are suitable for decorating a house, apartment and office. There is everything you need for a good life of your game heroes."
+      },
+      {
+        "key": "57d2a42b18be588cdff79913e3c0afc1",
+        "title": "Pack for many items",
+        "description": "Introduces the 2nd beta version of the mega pack of items from Minecraft for Melon. There are 72 add-ons in total, of which it is not recommended to take a block called “SFFONADA” during construction, because. it is very large and can destroy your starting building.\n\nThe pack has almost all the blocks, beams, interior items, torches, food, lane heroes and much more."
+      },
+      {
+        "key": "8bcc2136b8bda91dc802ce0c1931eaf4",
+        "title": "Survival V5",
+        "description": "The Survival V5 mod is the latest version of the survival mod. Here the author finalized some textures and improved the whole pack. There are many items that are necessary for survival in difficult conditions far from civilization. It contains 42 items in total.\n\nThe entire composition of the pack with Russian translation, the author also added one item that displays the author's name and the method of communication."
+      },
+      {
+        "key": "9cc7747a34f9c29f7a130b510a1dbde0",
+        "title": "Pack of Minecraft blocks",
+        "description": "A large mod pack on the theme of the Minecraft game, which will add a lot of blocks, food, torches and other interesting items to Melon with which you can make a cool map. In total, there are 45 items in the pack for today."
+      },
+      {
+        "key": "a021a95f3e1229bae530f1d614f03b42",
+        "title": "Yellow Amongus",
+        "description": "The mod will add a figurine of Amogus from the once popular game in yellow. Perfectly decorate the interior of your card in Melon Playground."
+      },
+      {
+        "key": "76059394d0b1390f93f7e179ed2a509d",
+        "title": "Statue of a soldier with a rifle",
+        "description": "Use the statue of a soldier to recreate a war-themed map or honor the memory of military personnel involved in combat conflicts."
+      },
+      {
+        "key": "7b2f7f81857137eac7339db36dd20050",
+        "title": "Items for video recording",
+        "description": "The Movie Production mod contains the items needed to create TV shows or short cutscenes. The kit includes a chroma key, microphones, a video camera and more."
+      },
+      {
+        "key": "d5b7e684aa20219a5aa9e2b0a06d6521",
+        "title": "Tree without leaves",
+        "description": "The tree mod is a small leafless tree, more suitable for decorating horror-themed maps."
+      },
+      {
+        "key": "b104e30ea5efa1fef9995e188787edae",
+        "title": "Monument to the victory over the virus",
+        "description": "The monument in the form of a soldier was dedicated to the victory over an unknown virus. Perfectly suitable as an interior map of a military theme."
+      }
+    ]
+  },
+  {
+    "category": "Furniture",
+    "key": "furniture",
+    "items": [
+      {
+        "key": "8e6172aba40cecc00d017321ae2aa6d8",
+        "title": "Tiny Furniture",
+        "description": "Someone is already familiar with this mod, it has been updated and received version 4.0.\n\nFixed bugs in textures\nPlaced all items in separate categories (Kitchen/Bathroom/Bedroom)\nMoved Room's to the \"Building\" tab\nIn the pack:\n\nBathroom\nWhite Nightstand\nKettle\nChair\nCoffee table\nFridge\nBed\nKitchen Cabinet\nMacBook (Notebook)\nMicrowave\nMini wardrobe\nPlate\nRadio\nSink\nRoom\nCupboard\nwhite wardrobe\nBig wardrobe\nWashing machine\nTable\nBedside table\nTelevision\nToilet\nBathroom\nWardrobe with seat"
+      },
+      {
+        "key": "85d808a765d6c1116c98206471509bbb",
+        "title": "Bar theme pack",
+        "description": "Items from the mod can be used to create a bar or bar environment. The package contains:\n\nTable;\nChair with backrest (Glow available);\nChair without a back (There is a Glow);\nMug with a drink (There is a Glow).\nThe circle needs to be enlarged."
+      },
+      {
+        "key": "818bb4057fc77e95a7d0f66ed19f6921",
+        "title": "Desk lamp",
+        "description": "A small pack of various lamps for the table. The package contains:\n\nRed\nBlue\nBlack\nGreen\nAll have a glow texture."
+      },
+      {
+        "key": "6f243ad550b79ced1d8a378b9c1206a1",
+        "title": "Big pack of props",
+        "description": "Big pack for various items. A total of 34 add-ons for different scenarios.\n\nWhat is:\n\nCardboard box\nMailbox\nBench\nLantern st.\nSuitcase\nCone\nTrash can\nCactus\nwet floor sign\nSurveillance Camera\nFlower\nWatch\nshopping cart\nFlash drive\nUmbrella\nTraffic light\nBooks\nExit sign\nStop sign\nGame arcade machine\nPainting\nold pc\nCooler\niron locker\nPot\nDrill\nsun lounger\nComputer (Monitor, keyboard, system unit, mouse)\nBroom\nLog\nCandle"
+      },
+      {
+        "key": "c95c89ce1f186eb2f28d3fa99f8ff231",
+        "title": "Boxes from FNAF2",
+        "description": "A small pack of boxes from a familiar game. In the pack:\n\nwhite box\npurple box\nlettuce box\nPuppet Box"
+      },
+      {
+        "key": "25a25fee55ef9b89665e05eee4ed646a",
+        "title": "Decorations for street and house",
+        "description": "The pack contains 12 decor items with which you can decorate the living space and the street. Suitable for any scenario, especially on the theme of rest in the village with my grandmother."
+      },
+      {
+        "key": "c61dca7b91dfbba9e85f45f73a7c13ad",
+        "title": "Pack of school items",
+        "description": "Mod adds a large number of different items related to the school.\n\nIn the pack:\n\nDesk with a chair;\nTextbooks on society, algebra and a random book;\nMarker board with markers (they can be folded into the hole in the board);\nChalk board and chalk;\nPencil case with pen and pencil;\nThe ruler is exactly 1 game meter;\nSmall ruler for 30 game cm;\nDiary, side and front views."
+      },
+      {
+        "key": "4b548d759754b4a5ec9523211c0d08f8",
+        "title": "School desks",
+        "description": "Adds school desks. Scenario - a lesson in mathematics, as a teacher Apple Melon or another character. You can seat the kids at the desk."
+      },
+      {
+        "key": "581a97394c890eb683968594c6427ce8",
+        "title": "Decorative basket",
+        "description": "Adds a basket (you can't put anything in it), it can burn, and floats in water.\n\nWorks as a decor, can work in different scenarios."
+      },
+      {
+        "key": "ada168dccc9b5684d26fb8bb3551e8d8",
+        "title": "Bathroom items",
+        "description": "This set includes:\n\nShower\nToilet\nWashbasin-bedside table\nToothbrush\nShampoo\nBathroom\nSoap"
+      },
+      {
+        "key": "bb53c62475a4f28295dfd71302a53a3d",
+        "title": "Shelves",
+        "description": "The mod will add shelves that are used as decor in your scenarios. They can be pierced with knives or swords."
+      },
+      {
+        "key": "bfbcf9138c066a24d702a3ad2ec417bf",
+        "title": "Kitchen pack",
+        "description": "There are various mods that are suitable for the kitchen utensils section. There are also several products. In total there are 7 items in the pack:\n\nSalt;\nSugar;\nJuice;\nPlate;\nKitchen rack;\nFrying pan."
+      },
+      {
+        "key": "679f9fe7f75c4cc4bb766c3254195d9d",
+        "title": "BATHROOM MOD",
+        "description": "The mod will add 14 items that you see every day in your bathroom and toilet. With this mod, you can create a fun script for Melon and for recording your videos."
+      },
+      {
+        "key": "0e48f73b9829b06547a1a88c4d201785",
+        "title": "Bunk bed",
+        "description": "Maud add a bed in two floors. Also under the first bed visually there are additional drawers. Perfect for arranging a room in the game."
+      },
+      {
+        "key": "3b8ec3afbff414d8ffa88bae6cb4e4aa",
+        "title": "Computer desk and PC",
+        "description": "Mod adds 3 items using which you get a place under the computer. In the mod:\n\nTable;\nPC itself;\nMonitor."
+      },
+      {
+        "key": "efea31143ec2acd162c47d4a66f18e58",
+        "title": "Doors",
+        "description": "Three doors: for the bathroom, closed and open. Good for building houses or decorating apartments in the game."
+      },
+      {
+        "key": "4f64b58607abd3a4a62244c85e8efe22",
+        "title": "Gamer mod",
+        "description": "The mod contains five gaming items with which you can equip a gaming place in Melon Playground. There is:\n\nJoystick PS4;\nThe console itself;\nA computer;\nKeyboard;\nMonitor."
+      },
+      {
+        "key": "3cfce651e667ab85486dd42a8185f98a",
+        "title": "Box",
+        "description": "The mod will add a chest with a separate lid, you can put gold or other jewelry in it."
+      },
+      {
+        "key": "9aa78f80edb087b2afe2d052d597c0f1",
+        "title": "Hospital bed",
+        "description": "Download a hospital bed and put a sick player on it. Leave the mod in the collection, because. soon there will be many mods on the theme of the hospital. With this mod you can build a real hospital room."
+      },
+      {
+        "key": "d19c65bc26ec025653d95586db2c31de",
+        "title": "Bed",
+        "description": "The mod will add an excellent bed on which you can put a person to sleep. Use as additional furniture when arranging a house or apartment."
+      },
+      {
+        "key": "5c685861b1610b9d7316f2366f327ad3",
+        "title": "Household appliances and some furniture",
+        "description": "The mod contains 21 items, most of which are various furniture and accessories, a lot of household appliances necessary for furnishing a house or apartment."
+      },
+      {
+        "key": "7629fca7b575f2cdc7e1dedcfa6299aa",
+        "title": "Items to create an office",
+        "description": "With this mod, you can equip your office room. The mod contains 8 items."
+      },
+      {
+        "key": "d6f665af2c0f09e619f8db83e9472244",
+        "title": "Pack of home and office furniture",
+        "description": "A large pack for furniture and various items that are suitable for decorating a house, apartment and office. There is everything you need for a good life of your game heroes."
+      },
+      {
+        "key": "8bcc2136b8bda91dc802ce0c1931eaf4",
+        "title": "Survival V5",
+        "description": "The Survival V5 mod is the latest version of the survival mod. Here the author finalized some textures and improved the whole pack. There are many items that are necessary for survival in difficult conditions far from civilization. It contains 42 items in total.\n\nThe entire composition of the pack with Russian translation, the author also added one item that displays the author's name and the method of communication."
+      },
+      {
+        "key": "7b2f7f81857137eac7339db36dd20050",
+        "title": "Items for video recording",
+        "description": "The Movie Production mod contains the items needed to create TV shows or short cutscenes. The kit includes a chroma key, microphones, a video camera and more."
+      },
+      {
+        "key": "d7e15d86c6a48f4d7034a3547a8261c7",
+        "title": "Room furniture mod",
+        "description": "The mod includes several pieces of furniture that will allow you to furnish the room.\n\nTelevision;\nTV table;\nArmchair;\nShelf for books;\nColumn;\nPalm tree painting."
+      }
+    ]
+  },
+  {
+    "category": "Sport",
+    "key": "sport",
+    "items": [
+      {
+        "key": "b3d4b75963a0e456e840e544fb8646ea",
+        "title": "Dividing tracks",
+        "description": "Great for a water card. It's better to enable Disable Collision."
+      },
+      {
+        "key": "e4a013031109a4406a6ca1a4c97f00c2",
+        "title": "Barbell",
+        "description": "Adds a sports equipment in the form of a barbell. It is very heavy and, if used incorrectly, can destroy a person."
+      },
+      {
+        "key": "c34032ef8873e6c48dbd2b319642c088",
+        "title": "Boxing mod",
+        "description": "The mod will add a few things related to the theme of boxing. This includes:\n\nPunching bag;\nGloves;\nBoxing ring."
+      },
+      {
+        "key": "0be451586279716e0b314df786540f72",
+        "title": "Metal bat",
+        "description": "The mod adds a metal bat. You can pick it up and play baseball or fight monsters and zombies."
+      },
+      {
+        "key": "992190ad96c9ab1bc7fcedfc84569035",
+        "title": "Basketball and hoop",
+        "description": "The mod adds basketball paraphernalia to the game, namely the ball and the ring."
+      },
+      {
+        "key": "bf9e4abe962e599c240c9becdcb7832a",
+        "title": "Punching bag",
+        "description": "Add a punching bag to the game and pump your game hero into a real fighter."
+      },
+      {
+        "key": "def2dfc2dd3d44e1f89b417f179ee6fd",
+        "title": "Ring mod",
+        "description": "Используйте ринг для создания видосов или картинок на тему бокса или других единоборств в Мелон Плейграунд."
+      }
+    ]
+  }
+]
