@@ -454,6 +454,13 @@
   {
     "category": "Weapons",
     "key": "weapons",
+	
+	 "items": [
+      {
+        "key": "1",
+        "title": "Apple Cannon",
+        "description": "Shoots an apple laser, Used during the Watermelon and apple wars, Effective in combat"
+      },
     "items": [
       {
         "key": "dc78c8ca3cc51debbf6ed878e4b48832",
