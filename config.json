@@ -1,7 +1,10 @@
 {
-  "shareUrl": "",
+  "shareContent": "",
   "privacy_policy": "",
-  "recommend_url": "",
+  "recommend_url": "https://raw.githubusercontent.com/guujoy/melon/master/recommend.json",
   "notice": "",
-  "gotoUrl": ""
+  "gotoUrl": "",
+  "packageName": "",
+  "versionCode": 0,
+  "updateLog": ""
 }
