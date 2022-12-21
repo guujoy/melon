@@ -6,5 +6,9 @@
   "gotoUrl": "",
   "packageName": "",
   "versionCode": 0,
-  "updateLog": ""
+  "updateLog": "",
+  "pkgs": [
+    "com.TwentySeven.MelonPlayground",
+    "com.studio27.MelonPlayground"
+  ]
 }
